@@ -1,0 +1,32 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+3	alcido elenor wander	0.7984	0.0783	1	1	1	1	0	1	2011	0	1
+5	ana cristina de faria	-0.6788	-0.2888	4	1	1	1	2	1	2007	2	1
+6	ana lúcia medeiros	-0.9981	-0.1744	2	5	6	2	0	0	2021	0	0
+11	angélica góis morales	-0.3159	0.366	3	6	13	3	0	1	2020.6667	0	0.3333
+12	aracelis góis morales rigoldi	-0.3142	0.1159	3	9	47	13	1	7.3846	2020.4615	0.0769	0.568
+13	aracelis góis morales rigolid	-1.0481	-0.038	2	4	4	1	0	0	2021	0	0
+18	delson henrique gomes	0.8862	-0.0385	1	12	14	8	0	8	2019.5	0	1
+21	emerson subtil denicoli	-1.002	-0.2927	2	2	2	1	0	0	2021	0	0
+23	francisco gilson rebouças pôrto	-0.2066	-0.1472	5	4	11	3	0	1	2021.6667	0	0.3333
+25	gilmar teixeira leão	-0.4121	-0.3505	4	1	1	1	0	1	2023	0	1
+26	gislene magali da silva	-0.8902	0.3666	6	2	2	1	0	1	2011	0	1
+27	graziela oeste graziano cremonezi	-0.1493	0.3792	3	4	4	1	0	0	2021	0	0
+28	graziela oste graziano cremonezi	-0.7009	0.0976	2	9	31	8	0	5	2020.375	0	0.625
+32	ivan gonçalves	1.0614	-0.2015	1	2	2	1	0	1	2020	0	1
+37	josé damião trindade rocha	1.1455	0.2571	1	1	1	1	0	1	2019	0	1
+40	karina toledo solha	-0.505	0.1378	7	4	12	3	0	2	2020.3333	0	0.6667
+49	luzorrane pereira barbosa	0.751	-0.07	1	1	1	1	0	1	2023	0	1
+52	maria imaculada de lima montebello	-0.061	-0.1381	5	4	8	2	0	0	2021	0	0
+55	marli teresinha vieira	0.8705	-0.2682	1	2	2	1	0	1	2020	0	1
+56	marli terezinha vieira	-0.5535	-0.0993	4	20	61	21	6	13.3846	2018.5714	0.2857	0.6374
+60	pablo vinícius miranda	0.9551	0.1839	1	2	2	1	0	1	2020	0	1
+61	pedro domingos antoniolli	0.4284	-0.0123	8	3	3	1	0	1	2020	0	1
+67	regina aparecida corrêa	-0.6026	-0.4948	4	1	1	1	0	1	2015	0	1
+68	romário matos freitas	1.0801	0.0652	1	2	2	1	0	1	2020	0	1
+70	sylvia salla setubal	-0.9526	0.3276	6	2	2	1	0	1	2011	0	1
+72	thel augusto monteiro	-0.494	0.3772	3	5	8	2	0	2	2020	0	1
+74	valtuir soares filho	1.0735	0.1814	1	4	6	5	0	5	2019.2	0	1
+75	valéria de lucena ribeiro	0.8002	-0.2522	1	2	2	1	0	1	2020	0	1
+76	valéria elias rueda spers	-0.9378	-0.0459	2	4	4	1	0	0	2021	0	0
+77	valéria rueda elias spers	-0.1252	0.1182	3	11	50	14	1	8.3846	2020.4286	0.0714	0.5989
+78	vinícius fernandes barboza	1.0973	-0.1394	1	2	2	1	0	1	2020	0	1

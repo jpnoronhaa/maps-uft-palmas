@@ -1,0 +1,20 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+1	abner luis calixter	0.5029	-0.2983	1	2	3	2	0	2	2022.5	0	1
+23	beatriz campos fialho	-0.8695	0.4474	3	3	5	2	0	0	2018	0	0
+37	dayanne dos santos araújo	0.4292	0.3217	4	3	4	2	0	0	2019	0	0
+42	douglas patrick da silva tavares	-0.4204	-0.0901	2	4	4	2	0	1	2021	0	0.5
+68	gustavo cantuária	0.6621	-0.039	1	3	6	2	0	1	2017.5	0	0.5
+73	heliara aparecida costa	-0.6536	0.3877	3	5	15	11	21	22.8417	2019.0909	1.9091	2.0765
+80	jacy soares corrêa neto	1.0076	-0.0978	1	4	11	3	0	2	2021.6667	0	0.6667
+87	josé marcelo martins medeiros	0.4533	0.0224	1	11	31	24	6	21.825	2020	0.25	0.9094
+91	juan josé mascaró	-0.4076	-0.5626	2	1	3	3	10	5	2007.3333	3.3333	1.6667
+103	lenildo santos da silva	1.0143	0.0973	1	4	8	2	0	2	2022	0	1
+109	louise logsdon	-0.6437	0.599	3	3	9	4	4	5.4444	2019.5	1	1.3611
+112	lucimara albieri de oliveira	-0.5524	-0.4527	2	6	12	15	36	27.5266	2017.2	2.4	1.8351
+125	mariana martins medeiros	0.591	0.3807	4	3	6	3	0	2	2016.6667	0	0.6667
+131	marta adriana bustos romero	0.7593	0.1645	1	7	22	7	0	4	2019	0	0.5714
+139	márcio minto fabrício	-0.8115	0.6107	3	3	13	7	7	9.4667	2019.2857	1	1.3524
+147	pedro igor galvão gomes	-0.4779	-0.2423	2	2	3	2	0	2	2022.5	0	1
+150	raíssa sousa e silva	-0.6322	-0.6343	2	1	2	2	22	16.3043	2021.5	11	8.1522
+163	valmor cerqueira pazos	0.7865	-0.1878	1	6	20	7	0	5	2020.8571	0	0.7143
+167	wanellyse sousa menezes	-0.7373	-0.4266	2	1	3	3	2	2.2222	2018.6667	0.6667	0.7407

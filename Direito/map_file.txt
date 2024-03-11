@@ -1,0 +1,75 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	weight<Citations>	weight<Norm. citations>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+4	adilson cunha silva	-0.2441	0.2362	2	1	2	2	0	2	2023	0	1
+8	alexs gonçalves coelho	-0.9827	-0.01	7	1	2	2	0	0	2019	0	0
+13	aloísio alencar bolwerk	-0.2147	0.3055	2	13	22	34	1	21.6667	2019.4412	0.0294	0.6373
+24	andré ricardo fonseca carvalho	-0.2382	-0.4441	1	1	2	2	0	0	2020.5	0	0
+25	angelo stacciarini seraphin	0.9937	0.0639	4	1	2	2	0	0	2018	0	0
+35	bruna aline freire dos santos	-0.2636	0.3728	2	1	3	3	1	10.6667	2020	0.3333	3.5556
+36	bruno barreto cesarino	-0.7998	0.3029	9	4	11	3	0	3	2013.6667	0	1
+42	carlos alberto moreira de araújo	-0.6328	-0.166	7	2	3	3	0	1	2019.6667	0	0.3333
+43	carlos antônio álvares soares ribeiro	1.1952	0.0585	4	2	3	2	2	4	2010	1	2
+45	chesy alexandre coelho	1.03	-0.0579	4	2	3	2	0	1	2020.5	0	0.5
+48	cristiane roque de almeida	0.4521	-0.0607	6	4	6	14	3	28.1333	2018.2857	0.2143	2.0095
+53	deise justino matos	0.4844	-0.0275	6	1	2	2	0	0	2017	0	0
+63	emerson adriano guarda	0.3756	-0.0478	6	2	3	2	0	1	2022	0	0.5
+67	fabrício silva brito	-0.388	-0.5172	1	2	4	2	0	0	2021	0	0
+68	felipe alves bittencourt	1.0642	0.1299	4	1	2	2	0	0	2020	0	0
+79	francisco mendes chaves neto	-0.0046	-0.1947	3	1	2	2	0	0	2019	0	0
+89	graciela maria da costa barros	-0.1165	-0.0784	3	3	5	2	0	0	2017	0	0
+92	graziele cristina lopes ribeiro	-0.3049	0.3033	2	1	2	2	0	0	2017	0	0
+99	gustavo paschoal teixeira de castro oliveira	-0.0153	-0.1069	3	13	22	22	0	6	2018.0455	0	0.2727
+101	hagnes pedreira	-0.3269	-0.7087	12	1	2	2	0	0	2020	0	0
+106	hélvia túlia sandes pedreira	-0.3256	-0.6747	12	2	3	4	0	0	2020	0	0
+109	isa omena machado freitas	-0.749	0.215	9	10	29	10	0	7	2014.4	0	0.7
+114	j. c. do c. panetto	1.2591	-0.2196	8	5	10	2	0	2	2023	0	1
+115	jadir alves de oliveira	0.0435	-0.0272	3	4	7	3	0	1	2020.3333	0	0.3333
+116	jairo do socorro dos santos costa	-0.8845	0.2031	9	2	3	2	0	1	2014	0	0.5
+126	josé eustáquio de melo júnior	-0.1181	0.1121	2	2	2	2	0	0	2020	0	0
+128	josé roberto ferreira ribeiro	-0.2098	-0.2724	1	2	3	2	0	0	2019.5	0	0
+129	josé wilson rodrigues de melo	0.1335	-0.0092	3	6	6	2	0	0	2018	0	0
+132	joão marcelo dos santos silva	-0.7727	0.3591	9	4	11	3	0	3	2013.6667	0	1
+133	joão paulo macedo magalhães	-0.1717	0.4518	2	2	4	2	0	0	2017	0	0
+137	juan rodrigo carneiro aguirre	-0.3333	-0.4534	1	2	4	3	0	0	2021	0	0
+143	kamila câmera	-0.4101	-0.3802	1	1	2	2	0	0	2020	0	0
+146	keila barros moreira	-1.191	-0.0376	11	3	6	2	0	2	2022	0	1
+154	laurence rodrigues do amaral	1.1837	0.2989	5	6	12	2	0	2	2024	0	1
+159	leonardo macedo poli	-1.2056	0.3251	13	1	3	3	0	0	2015.3333	0	0
+167	lucas andrade de almeida	-0.1438	0.2724	2	1	2	2	0	0	2018	0	0
+168	luciana costa poli	-0.1432	0.3542	2	1	2	2	0	0	2017.5	0	0
+169	lucimara andreia moreira raddatz	-0.2141	0.4584	2	2	4	3	0	0	2016.3333	0	0
+172	luiz francisco oliveira	-0.2427	-0.3648	1	1	2	2	0	1	2020.5	0	0.5
+174	luiz sinésio silva neto	-1.1532	0.0036	11	3	6	2	0	2	2022	0	1
+176	líbia diniz santos	1.3119	0.2955	5	6	12	2	0	2	2024	0	1
+177	lívia c. f. silva	1.2471	0.3416	5	6	12	2	0	2	2024	0	1
+179	m. a. machado	1.2355	-0.1331	8	5	10	2	0	2	2023	0	1
+185	marcos antonio oliveira cruz	-0.6954	0.3182	9	5	10	3	0	2	2014.3333	0	0.6667
+187	marcos silva	1.2958	-0.1261	8	5	10	2	0	2	2023	0	1
+192	maria do carmo cota	-0.3649	-0.3005	1	1	1	3	0	0	2019.3333	0	0
+198	maria leda melo lustosa pereira	0.0316	0.0416	3	5	5	2	0	0	2020	0	0
+201	maria teresa cruz	1.2896	0.2233	5	6	12	2	0	2	2024	0	1
+207	marja diane pereira brito	-0.9992	0.1814	7	1	2	2	0	0	2017	0	0
+211	matheus de souza gomes	1.2489	0.2777	5	6	12	2	0	2	2024	0	1
+221	márcio lopes da silva	1.1889	0.0143	4	2	3	2	4	7	2010.5	2	3.5
+223	nadhya souza santana	-0.8946	-0.0432	7	1	2	2	0	0	2018	0	0
+229	neila barbosa osório	-1.1367	-0.0517	11	3	6	2	0	2	2022	0	1
+235	pamela itajara otto	1.2077	-0.187	8	5	10	2	0	2	2023	0	1
+236	patrícia medina	-0.0521	-0.059	3	7	13	5	0	0	2018	0	0
+241	paulo sérgio gomes soares	-0.3212	-0.5329	1	5	12	9	0	0	2020.3333	0	0
+245	pedro henrique alves da costa	-0.701	0.1148	10	5	10	2	0	2	2014	0	1
+246	pedro luiz lima bertarini	1.211	0.2274	5	6	12	2	0	2	2024	0	1
+249	rafael giordano gonçalves brito	-0.1632	-0.2299	1	4	4	2	0	0	2018	0	0
+255	renata rodrigues de castro rocha	1.0951	0.0376	4	18	36	25	8	44.0667	2018.36	0.32	1.7627
+263	roger william amaral barbosa	-0.7703	0.1148	10	5	10	2	0	2	2014	0	1
+266	roseli rêgo santos cunha silva	0.9916	-0.0688	4	2	2	5	0	3	2018	0	0.6
+271	silene colombo	-0.7077	0.0489	10	5	10	2	0	2	2014	0	1
+272	simone eliza facioni guimarães	1.3089	-0.1854	8	5	10	2	0	2	2023	0	1
+273	sinvaldo conceição neves	0.0647	-0.1493	3	1	2	2	0	0	2016	0	0
+276	suyene monteiro da rocha	0.2998	-0.0373	6	8	12	21	3	22.4	2019.1429	0.1429	1.0667
+277	suzidarly ribeiro teixeira fernandes	0.223	-0.017	6	2	3	2	0	0	2017	0	0
+278	sérgio augusto pereira lorentino	-1.1758	0.2983	13	2	5	8	0	1	2016.25	0	0.125
+281	tarsis barreto oliveira	-0.3127	-0.3668	1	12	25	47	10	58.4848	2020.0638	0.2128	1.2444
+288	vera lucia lopes alencar	-0.7731	0.0489	10	5	10	2	0	2	2014	0	1
+292	victoria gabriela gurgel pires	-1.0202	0.0878	7	1	2	2	0	0	2020	0	0
+295	vinícius pinheiro marques	-0.9105	0.0817	7	20	47	44	2	33	2017.1818	0.0455	0.75
+304	wanderley fernandes da cruz	0.4749	-0.102	6	1	2	2	0	0	2019	0	0
+307	ângela issa haonat	-0.1421	-0.1317	3	4	4	4	0	0	2015.5	0	0
